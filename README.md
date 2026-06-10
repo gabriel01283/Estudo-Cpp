@@ -69,4 +69,4 @@ Este repositório está em constante crescimento.
 
 Cada commit representa mais um passo na minha jornada de aprendizado e desenvolvimento como programador.
 
-> "Todo especialista já foi um iniciante que decidiu continuar aprendendo."
+
